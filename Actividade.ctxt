@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.GregorianCalendar\ getInicio()
+comment0.text=\n\ \ \ public\ Actividade(GregorianCalendar\ i,\ GregorianCalendar\ f)\ {\n\ \ \ \ \ \ \ this.inicio\ \=\ i;\n\ \ \ \ \ \ \ this.fim\ \=\ f;\n\ \ \ }\n
+comment1.params=
+comment1.target=java.util.GregorianCalendar\ getFim()
+comment2.params=
+comment2.target=void\ setInicio()
+comment3.params=
+comment3.target=void\ setFim()
+numComments=4
